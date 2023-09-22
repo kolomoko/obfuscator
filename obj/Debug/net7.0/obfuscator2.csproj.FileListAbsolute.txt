@@ -1,0 +1,15 @@
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.csproj.AssemblyReference.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.AssemblyInfoInputs.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.AssemblyInfo.cs
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.csproj.CoreCompileInputs.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/bin/Debug/net7.0/obfuscator2
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/bin/Debug/net7.0/obfuscator2.deps.json
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/bin/Debug/net7.0/obfuscator2.runtimeconfig.json
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/bin/Debug/net7.0/obfuscator2.dll
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/bin/Debug/net7.0/obfuscator2.pdb
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.dll
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/refint/obfuscator2.dll
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.pdb
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/obfuscator2.genruntimeconfig.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/Obfuscator/obfuscator2/obj/Debug/net7.0/ref/obfuscator2.dll
